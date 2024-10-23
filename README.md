@@ -1,5 +1,5 @@
 # React + Vite
-
+![React-demo](https://github.com/PoojaR-17/React/blob/main/puj.png)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
